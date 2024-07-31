@@ -4,10 +4,10 @@ This project focuses on developing a predictive model using Artificial Neural Ne
 
 # REQUIERMENTS
 
--Python 3.x
--numpy
--tensorflow
--matplotlib
+- Python 3.x
+- numpy
+- tensorflow
+- matplotlib
 
 # USAGE
 
