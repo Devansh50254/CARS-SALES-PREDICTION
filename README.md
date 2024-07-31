@@ -1,1 +1,3 @@
 # CARS-SALES-PREDICTION
+OVERVIEW
+This project focuses on developing a predictive model using Artificial Neural Networks (ANNs) to estimate the amount customers are willing to pay for a car. By leveraging customer demographic and financial data such as gender, age, annual salary, credit card debt, and net worth, the model aims to provide accurate predictions of car purchase amounts. This information can help car sales professionals tailor their strategies and better meet customer expectations. The project involves data preprocessing, model training, evaluation, and deployment, ensuring the model's reliability and practical utility.
